@@ -6,11 +6,9 @@ I mostly work on front-end stuff — JavaScript, React and Tailwind CSS
 
 I also use Canva for wireframe and UI design
 
-<details>
-  <summary>Motivation</summary>
-  <br/>
+## Motivation
+
 I’m drawn to web development because it's one of those sweet spots where creativity and problem-solving interact. I’ve always loved making things and expressing ideas visually, and building for the web feels like a form of art that users can engage with. I enjoy that there’s room for subjectivity parallel to logic and structure. The chance to learn—to discover what I don’t know and to stay curious—all keeps me motivated.
-</details>
 
 ## Tools & Tech
 
@@ -37,5 +35,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
