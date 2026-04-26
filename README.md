@@ -8,7 +8,7 @@ I also use Canva for wireframe and UI design
 
 ## Motivation
 
-I’m drawn to web development because it's one of those sweet spots where creativity and problem-solving interact. I’ve always loved making things and expressing ideas visually, and building for the web feels like a form of art that users can engage with. I enjoy that there’s room for subjectivity parallel to logic and structure. The chance to learn—to discover what I don’t know and to stay curious—all keeps me motivated.
+I’m drawn to web development because it's one of those sweet spots where creativity and problem-solving interact. I’ve always loved making things and expressing ideas visually, and building for the web feels like a form of art that users can engage with. I also enjoy that there’s place for personal taste and intuition. The chance to learn—to discover what I don’t know and to stay curious—all keeps me motivated.
 
 ## Tools & Tech
 
