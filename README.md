@@ -8,7 +8,8 @@ If a project has the posibility to show gaps in my knowledge, i will gladly star
 
 My current tech stack is react, javascript and tailwind. My favorite tools are canva and obsidian. 
 
-**miscellaneous** 
+**miscellaneous**
+
 Hobbies: making art, animanga, and building things.
 
 <!--
