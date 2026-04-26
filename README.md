@@ -26,3 +26,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+  <summary>Motivation</summary>
+  I’m drawn to web development because it's one of those sweet spots where creativity and problem-solving interact. I’ve always loved making things and expressing ideas visually, and building for the web feels like a form of art that users can engage with. I enjoy that there’s room for taste, intuition, and personal style parallel to logic and structure. The constant chance to learn, discovering what I don’t know, and choosing curiosity over comfort all keeps me motivated.
+</details>
