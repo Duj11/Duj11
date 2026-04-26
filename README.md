@@ -2,15 +2,26 @@
 
 I am [Dagim](https://github.com/duj11), a junior front-end developer currently on my 3rd year of college at Hawassa University.
 
-I make whatever comes to my mind.
+I mostly work on front-end stuff — JavaScript, React and Tailwind CSS
 
-If a project has the posibility to show gaps in my knowledge, i will gladly start it. 
+I also use Canva for wireframe and UI design
 
-My current tech stack is react, javascript and tailwind. My favorite tools are canva and obsidian. 
+<details>
+  <summary>Motivation</summary>
+  <br/>
+I’m drawn to web development because it's one of those sweet spots where creativity and problem-solving interact. I’ve always loved making things and expressing ideas visually, and building for the web feels like a form of art that users can engage with. I enjoy that there’s room for subjectivity parallel to logic and structure. The chance to learn—to discover what I don’t know and to stay curious—all keeps me motivated.
+</details>
+
+## Tools & Tech
+
+- React, JavaScript, Tailwind CSS
+- Canva, Figma, Obsidian
 
 **miscellaneous**
 
 Hobbies: making art, animanga, and building things.
+
+
 
 <!--
 **Duj11/Duj11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,9 +39,3 @@ Here are some ideas to get you started:
 -->
 
 ---
-
-<details>
-  <summary>Motivation</summary>
-  <br/>
-  I’m drawn to web development because it's one of those sweet spots where creativity and problem-solving interact. I’ve always loved making things and expressing ideas visually, and building for the web feels like a form of art that users can engage with. I enjoy that there’s room for subjectivity parallel to logic and structure. The chance to learn—to discover what I don’t know and to stay curious—all keeps me motivated.
-</details>
