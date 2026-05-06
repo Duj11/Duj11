@@ -2,7 +2,7 @@
 
 I am [Dagim](https://github.com/duj11), a junior front-end developer currently on my 3rd year of college at Hawassa University.
 
-I mostly work on front-end stuff — JavaScript, React and Tailwind CSS. But I can also do backend if you need me to — PHP, MySQL 
+I mostly work on front-end stuff — JavaScript, React and Tailwind CSS. I can do backend as well if you need me to — PHP, MySQL.
 
 I also use Canva for wireframe and UI design
 
